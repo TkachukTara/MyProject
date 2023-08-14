@@ -1,2 +1,5 @@
-package mateAcademyCourse;public class gitLessons {
+package mateAcademyCourse;
+
+public class gitLessons {
+    int a = 10;
 }
